@@ -1,0 +1,10 @@
+{
+  "name": "pace",
+  "title": "pace",
+  "id": "pace@yangzhongchao.com",
+  "description": "你将获得一个漂亮的加载进度条",
+  "author": "yangzhongchao",
+  "homepage":"http://yangzhongchao.com",
+  "license":  "MPL 2.0",
+  "version": "0.1"
+}
